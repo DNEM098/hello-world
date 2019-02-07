@@ -2,9 +2,9 @@
 its a world
 public class hello-world{
 
-      public statiuc void main(String [] hw){
+      public static void main(String [] hw){
       
-      System.out.prinln("Hello world!");
+      System.out.println("Hello world!");
       
       }
 }
